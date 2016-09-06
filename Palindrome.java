@@ -19,3 +19,4 @@ public class Palindrome
 			System.out.println("Not Palin");
 	}
 }
+ 
